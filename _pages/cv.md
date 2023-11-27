@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Moscow Institute of Physics and Technology, 2016-2020
+* M.S. in Skolkovo Institute of Science and Technology, 2020-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Samsung AI Center** (September 2022 --- Present)
+  * Engineer
+  * **Projects:** selfie editing based on mesh avatars, generative assets, depth estimation
+    
+* **Nanosemantics Lab, LLC** ( June 2021 --- August 2022
+  * Computer vision algorithm developer
+  * **Projects:** Image and video segmentation task, 2D and 3D people keypoints estimation for photos and short videos
+ 
+* **Joint Institute for High Temperatures of the Russian Academy of Sciences** (August 2019 -- July 2020)
+  * Laboratory assistant
+  * **Projects:** Magnetic probe modeling. Conducting experiments with magnetic probe in plasma to explore magnetic field properties. Data analysis.
+ 
+Teaching
+======
+* Leading Mentor in [DLS school](https://dls.samcs.ru/) (2023)
+* Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023)
+* [MIPT Olympiad school](https://it-edu.com/mipt-school/) teacher (2021 - 2023)
+* Additional education teacher at 2101, 444 and Phystech Lyceum(2018 - 2022)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -36,23 +45,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
