@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Intro
 My name is Nina Konovalova, a dedicated Computer Vision Engineer currently working at Samsung AI Center. Over the past 3 years, I've been working in machine learning and deep learning area, specializing in Computer Vision, with a particular focus on generative models and 3D Computer Vision algorithms.
 
 My academic journey led me to explore Bayesian optimization and my master's research was devoted to the study of Bayesian optimization for various problems in polymer physics.
