@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+## Education
+
 * B.S. in Moscow Institute of Physics and Technology, GPA: 4.8/5, 2016-2020
 * M.S. in Skolkovo Institute of Science and Technology, GPA: 4.6/5 2020-2022
 
-Work experience
-======
+
+
+## Work experience
+
 <details>
 <summary> Samsung AI Center (September 2022 --- Present)
 <br> Middle Engineer </summary>
@@ -44,9 +47,11 @@ Work experience
  <li> Data analysis </li>
   </ul>
 </details>
+
+
  
-Teaching
-======
+## Teaching
+
 * Leading Mentor in [DLS school](https://dls.samcs.ru/) (2023 - 2024)
 * Writing posts for [Deep School](https://deepschool.ru/) (2024)
 * Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023)
@@ -54,8 +59,8 @@ Teaching
 * Additional education teacher at 2101, 444 and Phystech Lyceum(2018 - 2022)
 
   
-Skills
-======
+## Skills
+
 * **Languages \& frameworks:** Python, C++, Fortran, PyTorch, PyTorch Lightning,TensorRT, Tensorboard, OpenCV, Scikit, Kornia, Albumentations, Transformers, Dissusers, JAX, PIL, Pandas, Numpy, Scipy, Hydra, Numba, open3d, Flask, Xgboost, Catboost
 
 * **Technology:**  Classifiaction, Object Detection, Semantic/Instance Segmentation, Pose estimation, Recognition, Image Generation, Image editing, GAN, Super-Resolution, Denoising, Image2Image, Text2Image, Style Transfer, Distillation, NeRF, Inverse Rendering, Text-to-3D, Image-to-3D, Depth Estimation, Novel-view synthesis, Lidar data
