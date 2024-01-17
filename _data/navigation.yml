@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Curriculum Vitae"
-    url: cv/    
+    url: /cv/    
     
   - title: "Extracurricular activities"
-    url: extracurricular_activities/
+    url: /extracurricular_activities/
         
   - title: "Blog Posts"
-    url: blog_posts/
+    url: /blog_posts/
     
