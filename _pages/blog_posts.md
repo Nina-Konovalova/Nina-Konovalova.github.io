@@ -9,7 +9,7 @@ redirect_from:
 
 My [channel](https://t.me/reading_ai) dedicated to reading AI papers
 
-# Posts on Russian language
+## Posts in Russian language
 
 * [Диффузия на трансформерах](https://deepschool-pro.notion.site/187d749559ae4717a13f0cc8c708ced2)
 * [Введение в диффузионные модели](https://www.notion.so/deepschool-pro/69001a839dc748d98ca8393217ba12cf?pvs=4)
