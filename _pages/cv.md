@@ -20,7 +20,7 @@ redirect_from:
 ## Work experience
 
 <details>
-<summary> Samsung AI Center (March 2024 --- Present)
+<summary> AIRI (March 2024 --- Present)
 <br> Middle Engineer </summary>
 <ul>
  <li> Depth estimation using generative models  </li>
