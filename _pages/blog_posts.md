@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+My [channel](https://t.me/reading_ai) dedicated to reading AI papers
+
+# Posts on Russian language
+
+* [Диффузия на трансформерах](https://deepschool-pro.notion.site/187d749559ae4717a13f0cc8c708ced2)
+* [Введение в диффузионные модели](https://www.notion.so/deepschool-pro/69001a839dc748d98ca8393217ba12cf?pvs=4)
+
 ## Generative models
 * [AnimateDiff explained](https://telegra.ph/AnimateDiff-Animate-Your-Personalized-Text-to-Image-Diffusion-Models-without-Specific-Tuning-10-04)
 * [Align your Latents explained](https://telegra.ph/Align-your-Latents-High-Resolution-Video-Synthesis-with-Latent-Diffusion-Models-09-24)
@@ -15,6 +22,7 @@ redirect_from:
 * [In-Context Learning Unlocked for Diffusion Models explained](https://telegra.ph/In-Context-Learning-Unlocked-for-Diffusion-Models-06-12)
 
 ## Generative assets
+* [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion explained](https://first-waxflower-802.notion.site/SV3D-Novel-Multi-view-Synthesis-and-3D-Generation-from-a-Single-Image-using-Latent-Video-Diffusion-7eb7da35da344063863c7a0304f27fc2)
 * [DreamGaussian explained](https://telegra.ph/DreamGaussian-Generative-Gaussian-Splatting-for-Efficient-3D-Content-Creation-10-31)
 * [ATT3D explained](https://telegra.ph/ATT3D-Amortized-Text-To-3D-Object-Synthesis-07-11)
 * [Magic123 explained](https://telegra.ph/Magic123-One-Image-to-High-Quality-3D-Object-Generation-Using-Both-2D-and-3D-Diffusion-Prior-07-10)
@@ -26,3 +34,4 @@ redirect_from:
 
 ## Other
 * [Dinov2 explained](https://telegra.ph/DINOv2-Learning-Robust-Visual-Features-without-Supervision-08-06)
+
