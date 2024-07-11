@@ -20,7 +20,17 @@ redirect_from:
 ## Work experience
 
 <details>
-<summary> Samsung AI Center (September 2022 --- Present)
+<summary> Samsung AI Center (March 2024 --- Present)
+<br> Middle Engineer </summary>
+<ul>
+ <li> Depth estimation using generative models  </li>
+ <li> Generative assets editing </li> 
+</ul>
+</details>
+    
+
+<details>
+<summary> Samsung AI Center (September 2022 --- March 2024)
 <br> Middle Engineer </summary>
 <ul>
  <li>  Selfie editing based on mesh head-avatars  </li>
@@ -39,7 +49,7 @@ redirect_from:
 </details>
  
 <details>
-<summary> Joint Institute for High Temperatures of the Russian Academy of Sciences** (August 2019 -- July 2020)
+<summary> Joint Institute for High Temperatures of the Russian Academy of Sciences** (August 2019 --- July 2020)
 <br> Laboratory assistant </summary>
 <ul>
  <li> Magnetic probe modeling </li>
@@ -52,10 +62,13 @@ redirect_from:
  
 ## Teaching
 
-* Leading Mentor in [DLS school](https://dls.samcs.ru/) (2023 - 2024)
+* Leading Mentor in [DLS School](https://dls.samcs.ru/) (2023 - 2024)
+* Lecturer in [DLS School](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos) (2024)
+* Lecturer in Deep School [GenCV cource](https://deepschool.ru/gencv) (2024)
 * Writing posts for [Deep School](https://deepschool.ru/) (2024)
-* Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023)
+* Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023-2024)
 * [MIPT Olympiad school](https://it-edu.com/mipt-school/) teacher (2021 - 2023)
+* Lead Organizer in [Combalg mathematical School](https://combalg.ru/)
 * Additional education teacher at 2101, 444 and Phystech Lyceum(2018 - 2022)
 
   
