@@ -20,7 +20,7 @@ redirect_from:
 ## Work experience
 
 <details>
-<summary> AIRI (March 2024 -- Present)
+<summary> AIRI (March 2024 --Present)
 <br> Research Engineer </summary>
 <ul>
  <li> Controllable generation and image editing </li>
@@ -49,7 +49,7 @@ redirect_from:
 </details>
  
 <details>
-<summary> Joint Institute for High Temperatures of the Russian Academy of Sciences (August 2019 --- July 2020)
+<summary> Joint Institute for High Temperatures of the Russian Academy of Sciences (August 2019 -- July 2020)
 <br> Laboratory assistant </summary>
 <ul>
  <li> Magnetic probe modeling </li>
