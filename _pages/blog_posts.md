@@ -9,16 +9,6 @@ redirect_from:
 
 My [channel](https://t.me/reading_ai) dedicated to reading AI papers
 
-## Posts in Russian language
-
-* [Диффузия на трансформерах](https://deepschool-pro.notion.site/187d749559ae4717a13f0cc8c708ced2)
-* [Введение в диффузионные модели](https://www.notion.so/deepschool-pro/69001a839dc748d98ca8393217ba12cf?pvs=4)
-* [InstaFlow](https://blog.deepschool.ru/cv/gencv/instaflow-2/)
-* [Дистилляция диффузии. Часть 1](https://blog.deepschool.ru/cv/gencv/distillyacziya-diffuzii-chast-1/)
-* [Дистилляция диффузии. Часть 2](https://blog.deepschool.ru/cv/gencv/distillyacziya-diffuzii-chast-2/)
-* [Ускорение диффузионных моделей за счёт кэширования](https://blog.deepschool.ru/cv/gencv/uskorenie-diffuzionnyh-modelej-za-schyot-keshirovaniya/)
-* [Score Distillation Sampling в задаче text-to-3D](https://blog.deepschool.ru/cv/gencv/score-distillation-sampling-v-zadache-text-to-3d/)
-
 ## Generative models
 * [AnimateDiff explained](https://telegra.ph/AnimateDiff-Animate-Your-Personalized-Text-to-Image-Diffusion-Models-without-Specific-Tuning-10-04)
 * [Align your Latents explained](https://telegra.ph/Align-your-Latents-High-Resolution-Video-Synthesis-with-Latent-Diffusion-Models-09-24)
@@ -39,4 +29,14 @@ My [channel](https://t.me/reading_ai) dedicated to reading AI papers
 
 ## Other
 * [Dinov2 explained](https://telegra.ph/DINOv2-Learning-Robust-Visual-Features-without-Supervision-08-06)
+
+## Posts in Russian language
+
+* [Диффузия на трансформерах](https://deepschool-pro.notion.site/187d749559ae4717a13f0cc8c708ced2)
+* [Введение в диффузионные модели](https://www.notion.so/deepschool-pro/69001a839dc748d98ca8393217ba12cf?pvs=4)
+* [InstaFlow](https://blog.deepschool.ru/cv/gencv/instaflow-2/)
+* [Дистилляция диффузии. Часть 1](https://blog.deepschool.ru/cv/gencv/distillyacziya-diffuzii-chast-1/)
+* [Дистилляция диффузии. Часть 2](https://blog.deepschool.ru/cv/gencv/distillyacziya-diffuzii-chast-2/)
+* [Ускорение диффузионных моделей за счёт кэширования](https://blog.deepschool.ru/cv/gencv/uskorenie-diffuzionnyh-modelej-za-schyot-keshirovaniya/)
+* [Score Distillation Sampling в задаче text-to-3D](https://blog.deepschool.ru/cv/gencv/score-distillation-sampling-v-zadache-text-to-3d/)
 
