@@ -23,7 +23,7 @@ redirect_from:
 <summary> AIRI (March 2024 --- Present)
 <br> Middle Engineer </summary>
 <ul>
- <li> Depth estimation using generative models  </li>
+ <li> Controllable generation and image editing </li>
  <li> Generative assets editing </li> 
 </ul>
 </details>
@@ -33,7 +33,7 @@ redirect_from:
 <summary> Samsung AI Center (September 2022 --- March 2024)
 <br> Middle Engineer </summary>
 <ul>
- <li>  Selfie editing based on mesh head-avatars  </li>
+ <li> Selfie editing based on mesh head-avatars  </li>
  <li> Generative assets, text-to-3d and image-to-3D problems </li> 
  <li> Generative pretraining for depth estimation problem </li>
 </ul>
@@ -62,14 +62,14 @@ redirect_from:
  
 ## Teaching
 
-* Leading Mentor in [DLS School](https://dls.samcs.ru/) (2023 - 2024)
-* Lecturer in [DLS School](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos) (2024)
+* Leading Mentor in [DLS School](https://dls.samcs.ru/) (2023 -- current)
+* Lecturer in [DLS School](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos) (2024 -- current)
+* Writing posts for [Deep School](https://deepschool.ru/) (2024 -- current)
 * Lecturer in Deep School [GenCV cource](https://deepschool.ru/gencv) (2024)
-* Writing posts for [Deep School](https://deepschool.ru/) (2024)
-* Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023-2024)
-* [MIPT Olympiad school](https://it-edu.com/mipt-school/) teacher (2021 - 2023)
+* Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023 -- 2024)
+* [MIPT Olympiad school](https://it-edu.com/mipt-school/) teacher (2021 -- 2023)
 * Lead Organizer in [Combalg mathematical School](https://combalg.ru/)
-* Additional education teacher at 2101, 444 and Phystech Lyceum(2018 - 2022)
+* Additional education teacher at 2101, 444 and Phystech Lyceum(2018 -- 2022)
 
   
 ## Skills
