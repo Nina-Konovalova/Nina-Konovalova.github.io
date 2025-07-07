@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nina Konovalova, a Research Engineer currently working at AIRI. Over the past 4 years, I've been working in machine learning and deep learning area, specializing in Computer Vision, with a particular focus on generative models and 3D Computer Vision algorithms, [Deep Learning School](https://dls.samcs.ru/) academic lead.
+My name is Nina Konovalova, a Research Engineer currently working at AIRI. Over the past 4 years, I've been working in machine learning and deep learning area, specializing in Computer Vision, with a particular focus on generative models and 3D Computer Vision algorithms. Additionally I and currently working as academic lead in [Deep Learning School](https://dls.samcs.ru/).
 
 ## Research Interests
-My research interests are focused on the exploration of generative models, with a special emphasis on diffusion models and their application, in particular controllable generation and editing.
+My research interests are focused on the exploration of generative models, with a special emphasis on diffusion models and their application, in particular controllable generation, editing and interpretibility.
 
 ## Papers
 
@@ -26,7 +26,7 @@ My research interests are focused on the exploration of generative models, with 
 </details>
 
 <details>
-  <summary><strong><a href="https://arxiv.org/abs/2409.15010"  target="_blank">Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback</a></strong></summary>
+  <summary><strong><a href="https://arxiv.org/abs/2507.02321"  target="_blank">Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback</a></strong></summary>
   <p>We suggest InnerControl-- a training strategy that enforces spatial consistency across all diffusion steps. Specifically, we train lightweight control prediction probes — small convolutional networks — to reconstruct input control signals (e.g., edges, depth) from intermediate UNet features at every denoising step. We prove the efficiency of such models to extract signals even from very noisy latents and utilize these models to generate pseudo ground truth controls during training. Suggested approach enables alignment loss that minimizes the difference between predicted and target condition throughout the whole diffusion process. Our experiments demonstrate that our method improves control alignment and fidelity of generation. By integrating this loss with established training techniques (e.g., ControlNet++), we achieve high performance across different condition methods such as edge and depth conditions.</p>
 </details>
 
@@ -34,4 +34,4 @@ My research interests are focused on the exploration of generative models, with 
 
 
 ## Other Interests
-Beyond my professional endeavors, I've been actively involved in educational projects. I've served as an educational mathematics teacher in different schools, creating engaging materials for Machine Learning and Computer Vision lectures. Additionally, I have a [channel](t.me/reading_ai/) where I share insights into state-of-the-art technologies in AI. 
+Beyond my main work, I've been actively involved in educational projects. I have been working as a math teacher in different schools, creating lectures and seminars for Machine Learning and Computer Vision. Additionally, I have a [channel](t.me/reading_ai/) where I share insights into state-of-the-art technologies in AI. 
