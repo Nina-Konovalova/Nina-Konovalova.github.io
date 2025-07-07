@@ -20,7 +20,7 @@ redirect_from:
 ## Work experience
 
 <details>
-<summary> AIRI (March 2024 --Present)
+<summary> AIRI (March 2024 -- Present)
 <br> Research Engineer </summary>
 <ul>
  <li> Controllable generation and image editing </li>
@@ -67,8 +67,8 @@ redirect_from:
 * Writing posts for [Deep School](https://deepschool.ru/) (2024 -- current)
 * Lecturer in Deep School [GenCV cource](https://deepschool.ru/gencv) (2024)
 * Computer Vision lecturer at [Bootcamp](https://ai-arrow-camp.com/) (2023 -- 2024)
-* [MIPT Olympiad school](https://it-edu.com/mipt-school/) teacher (2021 -- 2023)
-* Additional education teacher at 2101, 444 and Phystech Lyceum(2018 -- 2022)
+* [MIPT Olympiad school](https://it-edu.com/mipt-school/) teacher (2021 -- 2025)
+* Additional education teacher at 2101, 444 and Phystech Lyceum (2018 -- 2022)
 
   
 ## Skills
